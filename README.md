@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a Discord bot
-- 🌱 I’m currently learning C, Python, Google Cloud Platform and Flask.
+- 🔭 I’m currently working on a music composing algorithm.
+- 🌱 I’m currently learning C, Python and Flask.
 - 📫 How to reach me:
   - **Email:** *justin.bornais@gmail.com*
   - **Discord:** *Justin Bornais#3073*
