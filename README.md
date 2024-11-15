@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 My three passions include computer science, education and music.
-- 🌱 I’m currently learning C++, GO, Flask and React.
+- 🌱 I’m currently learning and developing with C++, Golang, Fiber and React.
 - 📫 How to reach me:
   - **Email:** *justin.bornais@gmail.com*
   - **Discord:** *justin_b*
